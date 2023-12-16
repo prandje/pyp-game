@@ -41,7 +41,7 @@ while True:
     pygame.display.flip()
 
     # Control the game speed
-    pygame.time.Clock().tick(30)
+    pygame.time.Clock().tick(100)
 
 
 
