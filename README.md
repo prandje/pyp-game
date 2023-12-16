@@ -7,7 +7,7 @@ pygame.init()
 # Set up the game window
 width, height = 800, 600
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Your Game Title")
++pygame.display.set_caption("Your Game Title)
 
 # Set up colors
 white = (255, 255, 255)
