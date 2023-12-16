@@ -14,7 +14,7 @@ white = (255, 255, 255)
 black = (0, 0, 0)
 
 # Set up the player
-player_size = 50
+player_size = 49
 player_x = width // 2 - player_size // 2
 player_y = height - 2 * player_size
 player_speed = 5
